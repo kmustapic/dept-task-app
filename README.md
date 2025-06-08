@@ -21,9 +21,6 @@ A React application that allows users to register/login, fetch random countries 
 
 ## Future Improvements
 
-* Responsive UI: Clean design styled with Tailwind CSS and a custom component library.
-Future Improvements
-
 * Replace CDN Tailwind with PostCSS build for production.
 
 * Introduce React Context for global auth & saved countries.
